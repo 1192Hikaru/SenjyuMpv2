@@ -1,0 +1,2 @@
+var GSIBV = {};
+var CONFIG = {};
