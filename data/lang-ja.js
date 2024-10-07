@@ -2,7 +2,7 @@ if ( !GSIBV.CONFIG.LANG ) GSIBV.CONFIG.LANG = {};
 GSIBV.CONFIG.LANG.JA ={};
 
 GSIBV.CONFIG.LANG.JA.TITLE ={
-  "title" : "タイトル",
+  "title" : "危険場所マップ",
   "subtitle" : "（サンプル）"
 };
 
